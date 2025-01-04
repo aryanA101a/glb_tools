@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the model type?",
+        "key": "model_type",
+        "options": ["floor", "wall", "ceiling", "wall_texture", "floor_texture"]
+    },
+    {
+        "question": "Is it a light source?",
+        "key": "is_light",
+        "options": ["true", "false"]
+    }
+]
